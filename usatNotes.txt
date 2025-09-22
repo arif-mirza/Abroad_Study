@@ -1,0 +1,7 @@
+=> when we find the value of single item like a + b = 10 and a-b=6 find ab? 
+    => add the both quations and find the value of a .
+=> To find the averge speed the formula is total distance / total time
+=> understand the place of words like 94.60572 , 5 is at thusandths place
+=> how to find the radio b/w 2 numbers
+=> create equations to solve the problems
+=> find the value of k of this type of equations (x3 + 5kx + 70) 
